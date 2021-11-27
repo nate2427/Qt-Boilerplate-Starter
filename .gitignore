@@ -1,0 +1,7 @@
+.qmake.stash
+app.o
+Makefile
+p1.pro
+.xcode
+p1.app
+.Ds_Store
