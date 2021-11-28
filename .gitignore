@@ -5,3 +5,7 @@ p1.pro
 .xcode
 p1.app
 .Ds_Store
+p1.pro.user
+p1.qrc
+qrc_p1.cpp
+qrc_p1.o
